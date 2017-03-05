@@ -1,0 +1,14 @@
+{
+  "name": "gh-3102",
+  "version": "1.0.0",
+  "description": "$ npm install     $ ./node_modules/.bin/jshint --version     $ ./node_modules/.bin/jshint --config cfg_jshint.json",
+  "main": "myscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Pennisi",
+  "license": "MIT",
+  "dependencies": {
+    "jshint": "2.9.4"
+  }
+}
